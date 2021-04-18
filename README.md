@@ -5,7 +5,7 @@
 - 💬 Ask me about Unsupervised Deep Representation Learning 
 - 📫 How to reach me: ahmad.m.mustapha@hotmail.com
 
-- Check out my portfoilo: https://ahmadm-dl.github.io/
+- Check out my portfolio: https://ahmadm-dl.github.io/
 - Read my personal blog: Artificial Intelligence et. al. @ https://ahmadm-dl.github.io/AI-ET-AL/
 - Read my medium Blog: https://medium.com/@ahmad-mustapha
 - Follow me on twitter: http://twitter.com/Ahmad__Mustapha
