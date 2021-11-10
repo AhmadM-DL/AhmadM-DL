@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a research assistant at the American University of Beirut (AUB)
-- 🌱 I’m currently finishing my Master degree in Electric and Computer Engineering at AUB
 - 💬 Ask me about Unsupervised Deep Representation Learning 
 - 📫 How to reach me: ahmad.m.mustapha@hotmail.com
 
